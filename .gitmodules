@@ -1,3 +1,6 @@
 [submodule "quiz_go"]
 	path = quiz_go
 	url = https://github.com/pwnsbd/quiz_go.git
+[submodule "web-service-gin"]
+	path = web-service-gin
+	url = https://github.com/pwnsbd/web-service-gin.git
