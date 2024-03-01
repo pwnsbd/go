@@ -1,0 +1,3 @@
+[submodule "quiz_go"]
+	path = quiz_go
+	url = https://github.com/pwnsbd/quiz_go.git
